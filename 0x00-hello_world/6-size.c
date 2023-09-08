@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ *  main - Print sizes of bytes
+ *  Return: Zero
+ */
+
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
