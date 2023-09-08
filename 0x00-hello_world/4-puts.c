@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
-	my first comment
+ *  main - prints a sentence
+ *  Return: zero
  */
 
 int  main(void)
