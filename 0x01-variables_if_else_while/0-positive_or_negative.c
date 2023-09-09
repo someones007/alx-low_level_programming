@@ -2,11 +2,14 @@
 #include <time.h>
 #include <stdlib.h>
 
+
+
 /**
  * main - the main function
  * Description: take a random number and check if positive or negative or zero
  * Return: zero
  */
+
 
 int main(void)
 {
