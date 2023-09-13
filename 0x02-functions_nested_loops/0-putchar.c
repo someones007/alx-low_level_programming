@@ -13,8 +13,8 @@ int main(void)
 
         while (varr[i] != '\0')
         {
-            _putchar(varr[i]);
-            i++;
+		_putchar(varr[i]);
+		i++;
         }
         _putchar('\n');
 
