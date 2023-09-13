@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * Description: print alphabet in lowercase?
- * Return: Zero (Success)
+ * print_alphabet - print alphabet in lowercase using only _putchar
+ * Return: zero
  */
 
 void print_alphabet(void)
